@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: Civilians killed in missile strikes on Kyiv and Kharkiv",
+      "description": "Early morning missile attacks target blocks of flats in Ukraine's capital and second biggest city.",
+      "url": "https://www.bbc.co.uk/news/world-europe-68066309",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5CA8/production/_132402732_85cb354d-1b9c-4d60-8fb7-8a3d45a5794a.jpg",
+      "publishedAt": "2024-01-23T08:37:18.4573432Z",
+      "content": "Five people have been killed and dozens of people wounded in Russian missile attacks targeting the Ukrainian capital Kyiv and second biggest city Kharkiv, according to officials.\r\nResidential buildin… [+1647 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Canada sets two-year cap on foreign students",
+      "description": "It's time to \"rein in\" a system for foreign students that's \"a bit of a mess\", the immigration minister said.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68059996",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16613/production/_132376619_gettyimages-1244856299.jpg",
+      "publishedAt": "2024-01-23T08:22:19.5357203Z",
+      "content": "Canada has said it will cap the number of foreign students admitted to the country for two years in an attempt to address pressure on housing and healthcare in the country.\r\nThe cap will result in a … [+3927 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Medibank hack: Russian sanctioned over Australia's worst data breach",
+      "description": "Aleksandr Ermakov has been targeted for his role in a \"devastating\" cyber-attack which rattled the nation.",
+      "url": "https://www.bbc.co.uk/news/world-australia-68064850",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1436F/production/_132399728_000141788.jpg",
+      "publishedAt": "2024-01-23T08:22:16.6131364Z",
+      "content": "A Russian man has been named and sanctioned for his role in Australia's worst data breach.\r\nThe personal information of 9.7m Australians was stolen from the country's largest health insurer, Medibank… [+2361 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Taylor Swift: Man charged with stalking near singer's New York home",
+      "description": "The singer was not at her New York townhouse when witnesses reported an \"emotionally disturbed male\".",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68065792",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B44/production/_132402486_e9651ba11b027b412c8c1ec5a43d2cba0edec2bd0_391_7498_42191000x563.jpg",
+      "publishedAt": "2024-01-23T08:22:14.6292553Z",
+      "content": "A man has been arrested and charged with harassment and stalking near Taylor Swift's New York home. \r\nDavid Crowe, 33, from Seattle, was arrested on Monday after complaints about an \"emotionally dist… [+874 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Illinois mass shooting suspect dies in Texas - police",
+      "description": "Romeo Nance is believed to have fatally shot himself following a confrontation with officers, police say.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68065165",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2652/production/_132401890_joliet_illinois_cbs.jpg",
+      "publishedAt": "2024-01-23T07:37:16.4887745Z",
+      "content": "A gunman suspected of killing eight people in the city of Joliet, Illinois, has died after a confrontation with law enforcement officials, police say.\r\nPolice in Joliet said Romeo Nance, 23, is belie… [+2426 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "'Send back our husbands' - Russian women in rare protest",
+      "description": "A group of Russian women are making rare public demands for reservists to return from the front line.",
+      "url": "https://www.bbc.co.uk/news/world-europe-68056939",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/303D/production/_132394321_flowersatthekremlin1mariaandreevatowardstheright.png",
+      "publishedAt": "2024-01-23T07:37:15.4877587Z",
+      "content": "In a function room on the edge of Moscow, something unusual is happening. \r\nA group of women are publicly criticising the Russian authorities. Their husbands are among the 300,000 reservists mobilise… [+7246 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kim Jong Un: Is North Korea's leader actually considering war?",
+      "description": "Kim Jong Un's recent military actions and a significant departure in ideology has worried watchers.",
+      "url": "https://www.bbc.co.uk/news/world-asia-68052515",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10946/production/_132401976_8a0709e77e852116213774b086d8164e0122804f.jpg",
+      "publishedAt": "2024-01-23T07:37:11.0357419Z",
+      "content": "North Korea experts - by nature, a cautious group who seek to avoid sowing panic - have been left reeling by two of their own.\r\nLast week, the two eminent analysts dropped a bomb - so to speak - in s… [+9101 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Israeli military says 21 soldiers killed in Gaza",
+      "description": "The incident marks the deadliest day for Israel since the start of its ground operation.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68065903",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3CA0/production/_132402551_gettyimages-1878557487.jpg",
+      "publishedAt": "2024-01-23T07:07:17.8941039Z",
+      "content": "The Israeli army says 21 of its soldiers have been killed in Gaza - the deadliest day for Israeli forces since the start of their ground operation. \r\nA spokesman for the Israel Defense Forces (IDF), … [+618 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Yemen strikes live: US and UK launch new strikes against Houthi targets",
+      "description": "The Iran-backed Houthis have been firing at ships they say are linked to Israel travelling through the Red Sea.",
+      "url": "https://www.bbc.co.uk/news/live/world-middle-east-68065727",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2024-01-23T06:52:14.9727945Z",
+      "content": "The US and UKs latest round of airstrikes against Houthi targets in Yemen were to \"defend lives\" and protect \"the free flow of commerce\", a joint statement issued by the Pentagon says. \r\nThe statemen… [+677 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "New Hampshire primary: Donald Trump and Nikki Haley to go head-to-head",
+      "description": "Voters will go to the polls on Tuesday as the race for the presidential nomination enters its next stage.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68064703",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/178F3/production/_132399469_gettyimages-1953572761.jpg",
+      "publishedAt": "2024-01-23T04:37:10.1600326Z",
+      "content": "Media caption, Watch: Whats at stake for Trump and Haley in New Hampshire?\r\nVoters in New Hampshire will head to the polls on Tuesday, as Donald Trump and Nikki Haley duel in a primary vote.\r\nEx-US P… [+3465 chars]"
+    }
+  ]
+}
